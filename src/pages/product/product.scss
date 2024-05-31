@@ -1,0 +1,26 @@
+.product{
+    .users{
+        border-radius: 20px;
+        .box{
+            width: 80%;
+        .info{
+          display: flex;
+          align-items: center;
+          gap: 20px;
+          margin-bottom: 20px;
+        }
+      }
+    
+    }
+    .btn{
+        padding: 5px 10px;
+        margin-bottom: 10px;
+        cursor: pointer;
+        border-radius: 10px;
+        z-index: 1;
+        border: none;
+      }
+      h1{
+        padding-bottom: 6px;
+      }
+}
