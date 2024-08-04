@@ -1,4 +1,4 @@
-project demo - https://admin-adda.netlify.app/
+project demo - https://adminpanelpage.netlify.app/
 
 ![image](https://github.com/rajchaudhary99/AdminHUB/assets/112545110/7bcb9d6f-1f17-4177-9df0-9ced411939af)
 
